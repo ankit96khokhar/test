@@ -1,0 +1,4 @@
+task_manager.egg-info/
+__pycache__/
+*.pyc
+tasks.json
